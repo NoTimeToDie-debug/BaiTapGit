@@ -1,1 +1,4 @@
-console.log('master') 
+console.log('master');
+function CheckTask() {
+    console.log('testTask');
+}
